@@ -1,5 +1,5 @@
 Mark Kuria - Creative Filmmaker Portfolio
-https://images.unsplash.com/photo-1492684223066-81342ee5ff30?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80
+live website : https://mark-kuria-portfolio.netlify.app/
 
 A sophisticated, responsive portfolio website for Mark Kuria, a professional filmmaker and cinematographer specializing in wedding films, documentaries, and commercial videography.
 
